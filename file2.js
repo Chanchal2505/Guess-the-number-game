@@ -1,4 +1,4 @@
-// Guess Number Game
+// Guess the Number Game
 
 let gameNum=25;
 let userNum=prompt("Guess the game number");
